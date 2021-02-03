@@ -1,0 +1,14 @@
+{
+  "ExportDateUTC" : "2021-02-03T20:55:57Z",
+  "PeriodStartUTC" : "2020-01-01T00:00:00Z",
+  "PeriodEndUTC" : "2020-04-01T00:00:00Z",
+  "Devices" : [
+    {
+      "SerialNumber" : "aaa-bbb-ccc",
+      "PrintVolume" : 321
+    },{
+      "SerialNumber" : "ddd-eee-fff",
+      "PrintVolume" : 932
+    }
+  ]
+}

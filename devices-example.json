@@ -1,0 +1,22 @@
+{
+  "ExportDateUTC" : "2021-02-03T20:55:57Z",
+  "Devices" : [
+    {
+      "SerialNumber" : "aaa-bbb-ccc",
+      "Manufacturer" : "PrinterBrand",
+      "DeviceType" : "AB-1122",
+      "IpAddress" : "192.168.1.100",
+      "CustomerReference" : "Office Printer #1",
+      "CustomerLocation" : "Company HQ",
+      "CustomerAddress" : "Main Street 12, Amsterdam",
+      "CustomerEmail" : "customer@company.com",
+      "DeviceLocation" : "Mail room",
+      "DeviceFloor" : "1st floor",
+      "InstallationDateUTC" : "2021-02-03T20:55:57Z"
+    },{
+      "SerialNumber" : "ddd-eee-fff",
+      "Manufacturer" : "AnotherPrinterBrand",
+      "DeviceType" : "XY-3353"
+    }
+  ]
+}
